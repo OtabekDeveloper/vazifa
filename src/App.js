@@ -3,6 +3,7 @@ import IslamCard from './view/islamkan12/IslamCard'
 import './App.css';
 import Abdulboriy from './view/Abdulboriy/Abdulboriy'
 import Izzy from './view/izzy/Izzy';
+import Bunyod from './view/Bunyod/bunyod';
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <IslamCard/>
       <Abdulboriy/>
       <Izzy />
-
+      <Bunyod />
     </>
   );
 }
