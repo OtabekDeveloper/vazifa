@@ -1,6 +1,6 @@
 import React from "react";
 import "./Izzy.css";
-import izzy from "../izzy/1.jpg";
+import izzy from "./1.jpg";
 function Izzy() {
   return (
     <div>
