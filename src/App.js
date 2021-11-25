@@ -12,6 +12,7 @@ function App() {
       <IslamCard/>
       <Abdulboriy/>
       <Izzy />
+      
       <Bunyod />
     </>
   );
