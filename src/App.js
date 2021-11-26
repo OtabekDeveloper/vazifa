@@ -6,10 +6,12 @@ import Abdulboriy from './view/Abdulboriy/Abdulboriy'
 import Izzy from './view/izzy/Izzy';
 import Abdulatif from './view/abdulatif/Abdulatif'
 import Shahzod from './view/Shahzod/Shahzod'
+import MorCard from './view/Asadbek/MorCard'
 
 function App() {
   return (
     <>
+    <MorCard />
       <Abdurashid />
       <IslamCard/>
       <Abdulboriy/>
