@@ -1,0 +1,27 @@
+.AlisheroffCard {
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    box-shadow: 0 0 50px #e7e7e7;
+    transition: all 0.5s ease;
+    margin: auto;
+}
+
+.AlisheroffCard:hover {
+    box-shadow: 0 15px 20px #a9a9a9;
+}
+.myImage {
+    width: 70%;
+    margin-left: 40px;
+}
+.myCardInfo {
+    width: 100%;
+    text-align: center;
+}
+.myCardInfo h2{
+    color: red;
+}
